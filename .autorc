@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "WeberIT",
+  "repo": "container-go-vkig",
+  "name": "WeberIT",
+  "email": "matumbo.boehse@googlemail.com",
+}
